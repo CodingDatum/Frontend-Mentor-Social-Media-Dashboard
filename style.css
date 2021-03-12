@@ -10,11 +10,12 @@
 header{
     background-color: hsl(225, 100%, 98%);
     height: 244px;
-    padding: 35px 203.5px;
+    padding: 35px 173.5px;
+/*   203.5px   */
 }
 
 main{
-    padding: 0px 203.5px;
+    padding: 0px 173.5px;
     height: auto;
 
     margin-top: 130px;
